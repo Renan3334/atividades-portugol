@@ -1,13 +1,13 @@
 programa {
   funcao inicio() {
-    //esse conteúdo não é interpretado pelo interpretador
+    //esse conteÃºdo nÃ£o Ã© interpretado pelo interpretador
 
-    //declaração de variáveis
+    //declaraÃ§Ã£o de variÃ¡veis
     cadeia nome
     inteiro idade
     real altura
 
-    //atribuição de variável comando leia()
+    //atribuiÃ§Ã£o de variÃ¡vel comando leia()
     escreva("digite o seu nome: ")
     leia(nome)
     escreva("digite o sua idade: ")
